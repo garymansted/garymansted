@@ -1,13 +1,13 @@
 ![Header](https://www.cyberstudios.io/wp-content/uploads/2016/07/Custom-Hardware-Software-Central-Coast-NSW_hires.jpg)
 
-![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garymansted&show_icons=true&theme=gradient)
+![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garymansted&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garymansted&layout=compact&theme=gradient)](https://github.com/garymansted/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garymansted&layout=compact&theme=tokyonight)](https://github.com/garymansted/github-readme-stats)
 
 
 <!--
 **garymansted/garymansted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-tokyonight
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
