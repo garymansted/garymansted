@@ -1,6 +1,6 @@
 ![Header](https://www.cyberstudios.io/wp-content/uploads/2016/07/Custom-Hardware-Software-Central-Coast-NSW_hires.jpg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garymansted&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garymansted&show_icons=true&theme=tokyonight)
 
 
 
