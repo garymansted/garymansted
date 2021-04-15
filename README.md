@@ -6,6 +6,9 @@
 
 ![](https://img.shields.io/badge/<Code>-<Swift>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
+- 🔭 I’m currently working on updating my Github
+- 📫 How to reach me: gary@cyberstudios.io
+
 
 <!--
 **garymansted/garymansted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
