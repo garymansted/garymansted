@@ -1,4 +1,4 @@
-![Header](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/440px-Digital_rain_animation_medium_letters_shine.gif)
+![Header](https://cdn.arstechnica.net/wp-content/uploads/2021/08/getty-app-store-800x533.jpg)
 
 ![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garymansted&show_icons=true&theme=tokyonight)
 
