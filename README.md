@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/<Code>-<C++>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 - 🔭 Currently between projects
-- 📫 How to reach me: gary@cyberstudios.com.au
+- 📫 How to reach me: garymansted@gmail.com
 
 
 <!--
